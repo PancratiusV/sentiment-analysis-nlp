@@ -31,6 +31,10 @@ Compares three classifiers — **Logistic Regression**, **Random Forest**, and *
 - `scikit-learn`, `matplotlib`, `seaborn`, `nltk`
 - GloVe embeddings (`glove.2024.wikigiga.100d.zip`) — not included in this repo; download separately and extract to `glove.2024.wikigiga.100d/`
 
+## Repo
+
+Published at [github.com/PancratiusV/sentiment-analysis-nlp](https://github.com/PancratiusV/sentiment-analysis-nlp).
+
 ## Notes
 
 The GloVe embeddings file (`glove.txt`, ~1.6 GB) is excluded from this repo via `.gitignore` due to size. Download and extract it before running the notebook.
