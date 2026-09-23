@@ -1,0 +1,16 @@
+# Large embedding files — too big for GitHub
+glove.txt
+glove.2024.wikigiga.100d/
+glove.2024.wikigiga.100d.zip
+
+# Jupyter auto-save checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
